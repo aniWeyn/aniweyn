@@ -16,3 +16,4 @@ I have a background in software development, interaction design and project mana
 ## 🚀 Professional Goals 
 
 ## 📬 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sabina-niew/)
