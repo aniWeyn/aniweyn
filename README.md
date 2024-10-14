@@ -13,7 +13,7 @@ I have a background in software development, interaction design and project mana
 
 ## 📚 Key Projects
 - **Teaching CSS course at Norwegian University of Science and Technology**
-- **Norwegian University of Science and Technology** 
+- **Managing digital presence of a jazz piano player Kjetil Jerve**
 
 ## 🚀 Professional Goals 
 
