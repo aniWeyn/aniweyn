@@ -5,7 +5,11 @@
 ## About Me
 I have a background in software development, interaction design and project management. This skillset allows me to craft strategic visions for digital products.
 
-## 🛠️ Technical Skills 
+## 🛠️ Technical Skills
+- **Languages:** HTML, CSS, JavaScript, C#, SQL
+- **Frameworks & Libraries:** VueJS, Astro, React, .Net
+- **Tools & Platforms:** GitHub, Azure, Netlify, Storybook, Figma, Miro
+- **Design:** UI Design, UX Design, UX Research
 
 ## 📚 Key Projects 
 
