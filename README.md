@@ -12,7 +12,7 @@ I have a background in software development, interaction design and project mana
 - **Design:** UI Design, UX Design, UX Research, Figma, Miro
 
 ## 📚 Key Projects
-- **Teaching CSS course at Norwegian University of Science and Technology for 1st year Bachelor styudents**
+- **Teaching CSS course at Norwegian University of Science and Technology for 1st year Bachelor students**
 - **Managing digital presence of a jazz piano player Kjetil Jerve**
 
 ## 🚀 Professional Goals 
