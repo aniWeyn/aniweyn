@@ -7,7 +7,7 @@ I have a background in software development, interaction design and project mana
 
 ## 🛠️ Technical Skills
 - **Languages:** HTML, CSS, JavaScript, C#, SQL
-- **Frameworks & Libraries:** VueJS, Astro, React, .Net
+- **Frameworks & Libraries:** Astro, Vue, React, .Net
 - **Tools & Platforms:** GitHub, Azure, Netlify, Storybook, Figma, Miro
 - **Design:** UI Design, UX Design, UX Research
 
